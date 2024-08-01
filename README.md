@@ -9,9 +9,13 @@
 FarisAlmutairi305/FarisAlmutairi305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Computer languages I've experience with:
-|ID    | Language   | Used editors     | Since |
-| :--- | :--------- | :--------------- | :---- | 
+
+### Skills Overview
+
+This table provides a snapshot of my experience with various programming languages and tools, including the development environments and years of proficiency. It highlights the range of technologies I’ve worked with, from foundational languages to modern tools, showcasing my versatile skill set.
+
+|ID    | Technology | Used Tool/IDE    | Since|
+| :--- | :--------- | :--------------- | :----| 
 |1 | Java           | NetBeans         | 2018 |
 |2 | Batch Script   | CMD/Notepad++    | 2018 |
 |3 | JavaScript     | MS Visual Studio | 2020 |
