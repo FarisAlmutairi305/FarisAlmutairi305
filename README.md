@@ -35,4 +35,4 @@ This table provides a snapshot of my experience with various programming languag
 |17| RSS Feed       | Notepad++        | 2022 |
 |18| R              | RStudio          | 2024 |
 |19| Kotlin         | Android Studio   | 2024 |
-|20| Markdown       | GitHub           | 2024 |
+|20| Markdown       | Discord, GitHub  | 2024 |
