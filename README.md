@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @FarisAlmutairi305
-- 👀 I’m interested in web development, mobile apps development, and writing automation scripts.
-- 🌱 I’m currently learning Kotlin programming language
-- 💞️ I’m looking to collaborate on software development projects.
-- 📫 How to reach me ---> email me: Faris305Almutairi305@gmail.com
-- ⚡ Fun fact: I have a mobile app on Amazon App Store
+### Contact Info
+| Name | Email | Phone Number | 
+| :--- | :---- | :----------- | 
+| @FarisAlmutairi305 | Faris305Almutairi305@gmail.com | +966 532 451 862 | 
+
+### Little bit about me
+|  Key | Value |
+| :----------------- |:------------------------------------------------------------------------ |
+| **Interested In**      | web development, mobile apps development, and writing automation scripts | 
+| **Currently Learning** | Kotlin programming language | 
+| **Looking to**         | collaborate on software development projects | 
+| **Fun Fact**           | I have a mobile app on Amazon App Store |
 
 <!---
 FarisAlmutairi305/FarisAlmutairi305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
