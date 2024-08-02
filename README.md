@@ -1,15 +1,12 @@
-### Contact Info
-| Name | Email | Phone Number | 
-| :--- | :---- | :----------- | 
-| @FarisAlmutairi305 | Faris305Almutairi305@gmail.com | +966 532 451 862 | 
+# Faris Almutairi
 
-### Little bit about me
-|  Key | Value |
-| :----------------- |:------------------------------------------------------------------------ |
-| **Interested In**      | web development, mobile apps development, and writing automation scripts | 
-| **Currently Learning** | Kotlin programming language | 
-| **Looking to**         | collaborate on software development projects | 
-| **Fun Fact**           | I have a mobile app on Amazon App Store |
+### Contact Info
+- **Name:** Faris Almutairi (@FarisAlmutairi305)
+- **Email:** Faris305Almutairi305@gmail.com
+- **Phone Number:** +966 532 451 862
+
+### About Me
+I'm passionate about web development, mobile app development, and writing automation scripts. Currently, I'm learning Kotlin programming language and looking to collaborate on software development projects. Fun fact: I have a mobile app on the Amazon App Store!
 
 <!---
 FarisAlmutairi305/FarisAlmutairi305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
