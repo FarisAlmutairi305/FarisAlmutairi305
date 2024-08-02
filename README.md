@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 This table provides a snapshot of my experience with various programming languages and tools, including the development environments and years of proficiency. It highlights the range of technologies I’ve worked with, from foundational languages to modern tools, showcasing my versatile skill set.
 
-#### Programming Languages
+#### Table 1: Languages I'm experienced with
 | Since | Skills                                |
 | :---- | :------------------------------------ |
 | 2018  | Java, Batch Script                    |
@@ -26,14 +26,27 @@ This table provides a snapshot of my experience with various programming languag
 | 2022  | RDF, OWL, SPARQL, RSS Feed            |
 | 2024  | R, Kotlin, Markdown                   |
 
-#### Tools & IDEs
+#### Table 2: Tools I'm experienced with
 | Since | Skills                                |
 | :---- | :------------------------------------ |
-| 2018  | Notepad++, NetBeans, cmd.exe |
+| 2018  | Notepad++, NetBeans, Maven, cmd.exe |
 | 2020  | MS Visual Studio, Web Browser Console, Oracle, MySQL, phpMyAdmin, SQL Developer, SSMS, XAMPP |
 | 2021  | PyCharm |
 | 2022  | Protege |
-| 2024  | RStudio, Android Studio, Discord, GitHub |
+| 2024  | RStudio, Android Studio, Gradle, Discord, GitHub |
+
+#### Table 3: Tools I'm experienced with
+| SDLC Stage                | Tools                                       |
+| ------------------------- | ------------------------------------------- |
+| **Planning**              | Microsoft Word, Microsoft Project, Google Drive |
+| **Requirements Analysis** | Microsoft Word |
+| **Design**                | Lucidchart, Microsoft Visio, Draw.io  |
+| **Implementation**        | check Table 1 and Table 2 |
+| **Testing**               | Postman |
+| **Deployment**            | Amazon App Store |
+| **Documentation**         | Microsoft Word, GitHub |
+
+<!--- | **Maintenance**     |       | --->
 
 #### Other Skills
 - **Markdown**: Experienced with using Markdown for documentation and writing.
