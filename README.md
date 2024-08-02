@@ -37,3 +37,5 @@ This table provides a snapshot of my experience with various programming languag
 
 #### Other Skills
 - **Markdown**: Experienced with using Markdown for documentation and writing.
+- **Bookmarklets:** Experienced in creating and utilizing bookmarklets for automating web tasks and enhancing browser capabilities.
+- **APIs:** Experienced with using and integrating APIs to enhance application functionality.
