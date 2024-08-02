@@ -18,40 +18,22 @@ You can click the Preview link to take a look at your changes.
 This table provides a snapshot of my experience with various programming languages and tools, including the development environments and years of proficiency. It highlights the range of technologies I’ve worked with, from foundational languages to modern tools, showcasing my versatile skill set.
 
 #### Programming Languages
-| Language    | Since  |
-| :---------- | :----- |
-| Java        | 2018   |
-| Batch Script| 2018   |
-| JavaScript  | 2020   |
-| HTML        | 2020   |
-| CSS         | 2020   |
-| SQL         | 2020   |
-| PHP         | 2020   |
-| Python      | 2021   |
-| C#          | 2021   |
-| ASP.NET     | 2021   |
-| XML         | 2021   |
-| JSON        | 2021   |
-| RDF         | 2022   |
-| OWL         | 2022   |
-| SPARQL      | 2022   |
-| R           | 2024   |
-| Kotlin      | 2024   |
+| Since | Skills                                |
+| :---- | :------------------------------------ |
+| 2018  | Java, Batch Script                    |
+| 2020  | JavaScript, HTML, CSS, SQL, PHP, AJAX |
+| 2021  | Python, C#, ASP.NET, XML, JSON        |
+| 2022  | RDF, OWL, SPARQL, RSS Feed            |
+| 2024  | R, Kotlin, Markdown                   |
 
 #### Tools & IDEs
-| Tool/IDE          | Used For                          | Since  |
-| :---------------- | :-------------------------------- | :----- |
-| Notepad++         | editing any file                  | 2018   |
-| NetBeans          | Java                              | 2018   |
-| cmd.exe           | Batch Script                      | 2018   |
-| MS Visual Studio, Web Browser  | JavaScript, HTML, CSS, C# | 2020   |
-| Oracle, MySQL, phpMyAdmin, SQL Developer, SSMS | SQL  | 2020   |
-| XAMPP             | AJAX, PHP                         | 2020   |
-| PyCharm           | Python                            | 2021   |
-| Protege           | OWL, SPARQL                       | 2022   |
-| RStudio           | R                                 | 2024   |
-| Android Studio    | Kotlin                            | 2024   |
-| Discord, GitHub   | Markdown                          | 2024   |
+| Since | Skills                                |
+| :---- | :------------------------------------ |
+| 2018  | Notepad++, NetBeans, cmd.exe |
+| 2020  | MS Visual Studio, Web Browser Console, Oracle, MySQL, phpMyAdmin, SQL Developer, SSMS, XAMPP |
+| 2021  | PyCharm |
+| 2022  | Protege |
+| 2024  | RStudio, Android Studio, Discord, GitHub |
 
 #### Other Skills
 - **Markdown**: Experienced with using Markdown for documentation and writing.
