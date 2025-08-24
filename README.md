@@ -17,34 +17,51 @@ You can click the Preview link to take a look at your changes.
 
 This table provides a snapshot of my experience with various programming languages and tools, including the development environments and years of proficiency. It highlights the range of technologies I’ve worked with, from foundational languages to modern tools, showcasing my versatile skill set.
 
-#### Table 1: Languages I'm experienced with
+#### Table 1: Languages
 | Since | Skills                                |
 | :---- | :------------------------------------ |
 | 2018  | Java, Batch Script                    |
-| 2020  | JavaScript, HTML, CSS, SQL, PHP, AJAX |
+| 2019  | JavaScript, HTML, CSS                 |
+| 2020  | SQL, PHP, AJAX                        |
 | 2021  | Python, C#, ASP.NET, XML, JSON        |
-| 2022  | RDF, OWL, SPARQL, RSS Feed            |
+| 2022  | RDF, OWL, SPARQL                      |
+| 2023  | RSS Feed                              |
 | 2024  | R, Kotlin, Markdown                   |
+| 2025  | Bash                                  |
 
-#### Table 2: Tools I'm experienced with
+#### Table 2: Software
 | Since | Skills                                |
 | :---- | :------------------------------------ |
-| 2018  | Notepad++, NetBeans, Maven, cmd.exe |
+| 2018  | Notepad++, NetBeans, Maven, cmd.exe, Microsoft Word, Microsoft Excel, Microsoft Project |
+| 2019  | Google Sheets, Google Drive |
 | 2020  | MS Visual Studio, Web Browser Console, Oracle, MySQL, phpMyAdmin, SQL Developer, SSMS, XAMPP |
 | 2021  | PyCharm |
-| 2022  | Protege |
-| 2024  | RStudio, Android Studio, Gradle, Discord, GitHub |
+| 2022  | Protege, Lucidchart, Microsoft Visio, Draw.io |
+| 2023  | YouTube API |
+| 2024  | RStudio, Android Studio, Gradle, Discord, GitHub, Amazon App Store, Google Play Store, ChatGPT |
+| 2025  | Nmap, OpenSSL, SSH, cURL, PostgreSQL |
 
-#### Table 3: Tools I'm experienced with
-| SDLC Stage                | Tools                                       |
-| ------------------------- | ------------------------------------------- |
-| **Planning**              | Microsoft Word, Microsoft Project, Google Drive |
-| **Requirements Analysis** | Microsoft Word |
-| **Design**                | Lucidchart, Microsoft Visio, Draw.io  |
-| **Implementation**        | check Table 1 and Table 2 |
-| **Testing**               | Postman |
-| **Deployment**            | Amazon App Store |
-| **Documentation**         | Microsoft Word, GitHub |
+#### Table 3: Operating Systems
+| Since | Skills                                |
+| :---- | :------------------------------------ |
+| 2000s | Windows XP |
+| 2010s | Windows 7, Windows 8, Android |
+| 2020s | Windows 10 |
+| 2025 | Windows 11, Ubuntu Server, OpenWRT |
+
+#### Table 4: Skills
+| Since | Skills                                |
+| :---- | :------------------------------------ |
+| 2000s | PowerPoint |
+| 2010s | Video Editing |
+| 2018  | Programming |
+| 2019  | Web Apps Development |
+| 2020  | Database Management |
+| 2021  | Python |
+| 2022  | Semantic Web |
+| 2023  | APIs |
+| 2024  | Mobile & Desktop Apps Development |
+| 2025  | Networking, Information Security |
 
 <!--- | **Maintenance**     |       | --->
 
