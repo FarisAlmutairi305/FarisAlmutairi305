@@ -6,7 +6,11 @@
 - **Phone Number:** +966 532 451 862
 
 ### About Me
-I'm passionate about web development, mobile app development, and writing automation scripts. Currently, I'm learning Kotlin programming language and looking to collaborate on software development projects. Fun fact: I have a mobile app on the Amazon App Store!
+I'm passionate about building secure, reliable IT infrastructure with a strong focus on PKI, certificates, and automation. I work extensively with EJBCA Community Edition to design and manage enterprise certificate services, automate certificate lifecycles, and support large-scale internal environments.
+
+I enjoy working across both Linux and Windows Server, hardening systems, and enforcing strong security policies. I also use NGINX as a reverse proxy to securely expose internal applications, strengthen TLS configurations, and ensure consistent certificate trust across the organization.
+
+My goal is to create stable, scalable, and security-driven environments that simplify certificate management and improve overall infrastructure resilience.
 
 <!---
 FarisAlmutairi305/FarisAlmutairi305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
