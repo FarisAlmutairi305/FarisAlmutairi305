@@ -1,5 +1,7 @@
 # Faris Almutairi
 
+Last Update: 2025-12-02
+
 ### Contact Info
 - **Name:** Faris Almutairi (@FarisAlmutairi305)
 - **Email:** Faris305Almutairi305@gmail.com
