@@ -123,8 +123,12 @@ Below is a clear breakdown of my technical expertise across PKI, certificates, i
 
 ### GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FarisAlmutairi)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+| Rank | Trophies |
+| :---- | :------ |
+| Secret | [![trophy](https://github-profile-trophy.vercel.app/?username=FarisAlmutairi305&rank=SECRET)](https://github.com/ryo-ma/github-profile-trophy) |
+| S, SS, SSS | [![trophy](https://github-profile-trophy.vercel.app/?username=FarisAlmutairi305&rank=SSS,SS,S)](https://github.com/ryo-ma/github-profile-trophy) |
+| A, AA, AAA | [![trophy](https://github-profile-trophy.vercel.app/?username=FarisAlmutairi305&rank=AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy) |
+| B,C | [![trophy](https://github-profile-trophy.vercel.app/?username=FarisAlmutairi305&rank=B,C)](https://github.com/ryo-ma/github-profile-trophy) |
+| Unknown | [![trophy](https://github-profile-trophy.vercel.app/?username=FarisAlmutairi305&rank=-SECRET,-SSS,-SS,-S,-AAA,-AA,-A,-B,-C)](https://github.com/ryo-ma/github-profile-trophy) |
 
 
