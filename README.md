@@ -1,6 +1,6 @@
 # Faris Almutairi
 
-Last Update: 2025-12-02
+Last Update: 2025-12-03
 
 ### Contact Info
 - **Name:** Faris Almutairi (@FarisAlmutairi305)
@@ -118,3 +118,13 @@ Below is a clear breakdown of my technical expertise across PKI, certificates, i
 - **Markdown:** Experienced in writing technical documentation.  
 - **Bookmarklets:** Skilled in creating browser-based automation tools.  
 - **API Integration:** Comfortable using and integrating various APIs.
+
+---
+
+### GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=FarisAlmutairi)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
