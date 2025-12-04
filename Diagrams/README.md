@@ -27,6 +27,7 @@
 - [[Blog from visual-paradigm.com]](https://blog.visual-paradigm.com/how-to-turn-requirements-into-diagrams-with-an-ai-chatbot/)
 - [[Blog from opsdog.com]](https://opsdog.com/categories/workflows/information-technology)
 - [[Blog from piktochart.com]](https://piktochart.com/blog/types-of-diagrams/)
+- [[Blog from linkedin.com]](https://www.linkedin.com/pulse/why-every-tech-lead-must-master-architecture-sequence-rajesh-pillai-feyaf/?trackingId=H%2FkKB%2BZhSfSF8Ns2lkuqXw%3D%3D)
 ### Diagrams:
 - [[Diagram from edrawmax.com,]](https://www.edrawmax.com/templates/1000566/)
 - [[Diagram from creately.com, IT Infrastructure]](https://creately.com/diagram/example/jo83qjn51/it-infrastructure-diagram)
